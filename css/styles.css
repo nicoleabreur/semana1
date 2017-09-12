@@ -1,0 +1,135 @@
+body {
+font-family: 'Julius Sans One', serif;
+padding: 0px;
+background: #FFFFFF;
+color:white; 
+}
+
+
+header {
+text-align: center;
+margin-bottom: 70px;
+}
+
+header img {
+width: 700%;
+max-width: 500px;
+margin-right: 450px;
+
+}
+
+nav {
+max-width: 900px;
+margin: 0 auto;
+margin-bottom: 60px;
+margin-right:250px;
+
+
+
+}
+
+nav li {
+margin: 10px;
+display: inline-block;
+margin-right: 45px;
+margin-left: 90px;
+text-transform: uppercase;
+}
+
+nav li a {
+text-decoration: none;
+color: black;
+font-weight: bold;
+}
+
+nav li a:hover {
+color: #b3b300;
+}
+
+div.img{
+
+}
+img{
+	width: 40%;
+	height: 40%;
+	align-content: 50px;
+	border: 5px solid #000000;
+	
+}
+
+
+
+h1 span{
+	position: absolute;
+	color: #fff;
+	left: 450px;
+	bottom: 0px;
+	right: 10px;
+	top: 525px;
+	margin: 20px;
+	font-family: 'Hammersmith One', sans-serif;
+	padding: 3px 0px;
+	font-size: 90px;
+}
+
+div.img2{
+	
+}
+img{
+	width: 40%;
+	height: 40%;
+	margin-left: 350px;
+
+}
+
+
+h2 span{
+	position: absolute;
+	color: #ffffff;
+	left: 360px;
+	bottom: 0px;
+	right: 100px;
+	top: 1100px;
+	margin: 20px;
+	font-family: 'Hammersmith One', sans-serif;
+	padding: 3px 0px;
+	font-size: 90px;
+
+}
+ div.img3 {
+}
+ 	img{
+	width: 40%;
+	height: 40%;
+	
+
+}
+
+h3 span{
+	position: absolute;
+	color: #FFFFFF;
+	left: 400px;
+	bottom: 0px;
+	top: 1630px;
+	right: 90px;
+	margin: 20px;
+	font-family: 'Hammersmith One', sans-serif;
+	padding: 3px 0px;
+	font-size: 90px;
+
+}
+ }
+
+
+footer {
+border-top: 1px solid black;
+padding-top: 20px;
+clear: both;
+}
+
+@media screen and (max-width: 300px) {
+
+
+footer {
+text-align: center;
+}
